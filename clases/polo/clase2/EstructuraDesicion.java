@@ -17,9 +17,11 @@ public class EstructuraDesicion {
             System.out.println("+++++++++++++++");
             System.out.println("5 ES MAYOR");
             System.out.println("--------------");
-        } else {
+        } else if (cinco > diez) {
             System.out.println("+++++++++++++++");
             System.out.println("5 ES MENOR");
+            System.out.println("ESTOY EN ELSE");
+        } else if (uno > diez) {
             System.out.println("ESTOY EN ELSE");
         }
 

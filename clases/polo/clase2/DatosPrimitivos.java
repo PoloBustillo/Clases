@@ -8,7 +8,7 @@ public class DatosPrimitivos {
         String string = "kskdkasd";
 
         //*ENTEROS - NATURALES:
-        int aInt;
+        int aInt = 10;
         int bInt;
         int cInt, dInt;
         //*DOUBLE VS FLOAT
